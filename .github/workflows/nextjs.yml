@@ -79,6 +79,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
+      - run: touch ./dist/.nojekyll
 
   # Deployment job
   deploy:
