@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 
-const isProd = process.env.NODE_ENV="production";
+const isProd = `${process.env.Prod}`;
 const nextConfig = {
     basePath: isProd?"/HouslyNext" : "",
     output: "export",  // <=== enables static exports

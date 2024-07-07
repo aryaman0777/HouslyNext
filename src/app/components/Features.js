@@ -1,27 +1,27 @@
 const Features = () => {
     const features = [
       {
-        image: "/images/residential.jpg",
+        image: "/HouslyNext/images/residential.jpg",
         title: "Residential",
         listings: "51 Listings"
       },
       {
-        image: "/images/commercial.jpg",
+        image: "/HouslyNext/images/commercial.jpg",
         title: "Commercial",
         listings: "150 Listings"
       },
       {
-        image: "/images/land.jpg",
+        image: "/HouslyNext/images/land.jpg",
         title: "Land",
         listings: "305 Listings"
       },
       {
-        image: "/images/investment.jpg",
+        image: "/HouslyNext/images/investment.jpg",
         title: "Investment",
         listings: "15 Listings"
       },
       {
-        image: "/images/industrial.jpg",
+        image: "/HouslyNext/images/industrial.jpg",
         title: "Industrial",
         listings: "650 Listings"
       }

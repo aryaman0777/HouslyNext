@@ -22,7 +22,7 @@ header {
 }
 
 #hero {
-    background: url('/images/images.png') no-repeat bottom;
+    background: url('/HouslyNext/images/images.png') no-repeat bottom;
     background-size: 100% 100%;
     height: 100vh;
     display: flex;

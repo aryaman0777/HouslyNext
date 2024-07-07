@@ -14,21 +14,21 @@ const Feature2 = () => {
   
     const featureCards = [
       {
-        image: "/images/rentIcon.png",
+        image: "/HouslyNext/images/rentIcon.png",
         title: "Rent a House",
         description:
           "If the distribution of letters and 'words' is random, the reader will not be distracted from making.",
         link: "#",
       },
       {
-        image: "/images/buyIcon.png",
+        image: "/HouslyNext/images/buyIcon.png",
         title: "Buy a House",
         description:
           "If the distribution of letters and 'words' is random, the reader will not be distracted from making.",
         link: "#",
       },
       {
-        image: "/images/sellIcon.png",
+        image: "/HouslyNext/images/sellIcon.png",
         title: "Sell a House",
         description:
           "If the distribution of letters and 'words' is random, the reader will not be distracted from making.",

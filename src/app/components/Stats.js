@@ -4,7 +4,7 @@ const Stats = () => {
     return (
       <section
         className="stats-section relative bg-fixed bg-cover bg-center h-64 flex items-center justify-center"
-        style={{ backgroundImage: "url('/images/house.jpg')" }}
+        style={{ backgroundImage: "url('/HouslyNext/images/house.jpg')" }}
       >
         <div className="overlay absolute top-0 left-0 w-full h-full bg-black bg-opacity-50 flex items-center justify-center">
           <div className="stats-container flex justify-around w-4/5 text-white text-center">

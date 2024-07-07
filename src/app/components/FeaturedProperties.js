@@ -2,7 +2,7 @@
 const FeaturedProperties = () => {
     const properties = [
       {
-        image: "/images/hillshire.jpg",
+        image: "/HouslyNext/images/hillshire.jpg",
         title: "10765 Hillshire Ave, Baton Rouge, LA 70810, USA",
         details: ["8000sqf", "4 Beds", "4 Baths"],
         price: "$5000",
@@ -10,7 +10,7 @@ const FeaturedProperties = () => {
         reviews: "5(30)"
       },
       {
-        image: "/images/stonewall.jpg",
+        image: "/HouslyNext/images/stonewall.jpg",
         title: "59345 Stonewall Dr, Plaquemine, LA 70764, USA",
         details: ["8000sqf", "4 Beds", "4 Baths"],
         price: "$5000",
@@ -18,7 +18,7 @@ const FeaturedProperties = () => {
         reviews: "5(30)"
       },
       {
-        image: "/images/sandbar.jpg",
+        image: "/HouslyNext/images/sandbar.jpg",
         title: "3723 Sandbar Dr, Addis, LA 70710, USA",
         details: ["8000sqf", "4 Beds", "4 Baths"],
         price: "$5000",
@@ -26,7 +26,7 @@ const FeaturedProperties = () => {
         reviews: "5(30)"
       },
       {
-        image: "/images/royal.jpg",
+        image: "/HouslyNext/images/royal.jpg",
         title: "Lot 21 Royal Oak Dr, Prairieville, LA 70769, USA",
         details: ["8000sqf", "4 Beds", "4 Baths"],
         price: "$5000",
@@ -34,7 +34,7 @@ const FeaturedProperties = () => {
         reviews: "5(30)"
       },
       {
-        image: "/images/boyd.jpg",
+        image: "/HouslyNext/images/boyd.jpg",
         title: "710 Boyd Dr, Unit #1102, Baton Rouge, LA 70808, USA",
         details: ["8000sqf", "4 Beds", "4 Baths"],
         price: "$5000",
@@ -42,7 +42,7 @@ const FeaturedProperties = () => {
         reviews: "5(30)"
       },
       {
-        image: "/images/mclain.jpg",
+        image: "/HouslyNext/images/mclain.jpg",
         title: "5133 Mclain Way, Baton Rouge, LA 70809, USA",
         details: ["8000sqf", "4 Beds", "4 Baths"],
         price: "$5000",
