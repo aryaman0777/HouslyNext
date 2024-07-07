@@ -7,4 +7,4 @@ A simple website using html and Tailwind CSS
 
 ### Server
 
-<a href="https://aryaman0777.github.io/HouslyTailwind/">Live</a>
+<a href="https://aryaman0777.github.io/HouslyNext/">Live</a>
