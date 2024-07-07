@@ -53,11 +53,11 @@ const Footer = () => {
       <div className="footer-bottom flex justify-between items-center flex-wrap gap-4 border-t border-gray-700 pt-4">
         <p className="m-0">© 2024 Hously. Design & Develop with ❤️ by Aryaman.</p>
         <div className="social-icons flex space-x-4">
-          <a href="#"><img src="/images/facebook.svg" alt="Facebook" className="w-6 h-6 hover:bg-green-500" /></a>
-          <a href="#"><img src="/images/twitter.svg" alt="Twitter" className="w-6 h-6 hover:bg-green-500" /></a>
-          <a href="#"><img src="/images/linkedin.svg" alt="LinkedIn" className="w-6 h-6 hover:bg-green-500" /></a>
-          <a href="#"><img src="/images/instagram.svg" alt="Instagram" className="w-6 h-6 hover:bg-green-500" /></a>
-          <a href="#"><img src="/images/email.svg" alt="Email" className="w-6 h-6 hover:bg-green-500" /></a>
+          <a href="#"><img src="/HouslyNext/images/facebook.svg" alt="Facebook" className="w-6 h-6 hover:bg-green-500" /></a>
+          <a href="#"><img src="/HouslyNext/images/twitter.svg" alt="Twitter" className="w-6 h-6 hover:bg-green-500" /></a>
+          <a href="#"><img src="/HouslyNext/images/linkedin.svg" alt="LinkedIn" className="w-6 h-6 hover:bg-green-500" /></a>
+          <a href="#"><img src="/HouslyNext/images/instagram.svg" alt="Instagram" className="w-6 h-6 hover:bg-green-500" /></a>
+          <a href="#"><img src="/HouslyNext/images/email.svg" alt="Email" className="w-6 h-6 hover:bg-green-500" /></a>
         </div>
       </div>
     </footer>
